@@ -364,3 +364,5 @@ FodyWeavers.xsd
 /ProductCatalog.Infrastructure/Migrations/20251114180340_InitialCreate.cs
 /ProductCatalog.Infrastructure/Migrations/ApplicationDbContextModelSnapshot.cs
 /ProductCatalog.API/appsettings.Development.local.json
+/ProductCatalog.Infrastructure/Migrations/ApplicationDbContextModelSnapshot.cs
+/ProductCatalog.Infrastructure/Migrations/20251114180340_InitialCreate.cs
